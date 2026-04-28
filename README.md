@@ -1,3 +1,18 @@
+
+# 运行指南
+
+[RUNNING_GUIDE.md](RUNNING_GUIDE.md)
+
+# 教程
+
+[GUIDE.md](GUIDE.md)
+
+# 全栈案例
+
+[https://github.com/vfan/eino-oa](https://github.com/vfan/eino-oa)
+
+
+
 # Eino Examples
 
 English | [中文](README.zh_CN.md)
